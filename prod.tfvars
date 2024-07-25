@@ -1,4 +1,4 @@
 bucket_region = "sg"
-bucket_env = "prd"
-bucket_name = "luqman"
-bucket_ran_num = "789"
+bucket_env = "prod"
+bucket_name = "ben"
+bucket_ran_num = "9876"
